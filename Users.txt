@@ -1,0 +1,16 @@
+Ionut.Tufan,ionuttufan04@gmail.com,Paro1,Male,0723759798,false
+Alex.Tudor,alex.tudor11@gmail.com,dddaaawee,Male,07445422244,false
+andrei.alex,andreialex@gmail.com,32312312,Male,3123412331,false
+alex.alex,ionut.tufan@gmail.com,pasdadsa,Male,0723759798,false
+ionel.alin,ionel.alin@gmail.com,asdadadas,Male,0799999999,false
+ionel.alexandru,ionelionel.alex@gmail.com,sadsadas,Male,0733545955,false
+ggg.tttt,dasas@yahoo.com,dasdasd,Male,0733244421,false
+alexandru.bobe,alex.bobe@365.univ-ovidius.ro,parola,Male,0722333444,true,Geometry
+Ionut.Ionel,adresa@gmail.com,[C@6f53e81e,Male,0744333222,true
+username.name,fdsfsfsdf@gmail.com,Parolamea1,Female,0788666555,true
+Ionut.tufan,tufan@gmail.com,Parola12!,Male,0799888777,true,Informatics and Mathematics
+alexa.andreea,alexa@gmail.com,Pewqeqw312!,Female,0722333444,false,Informatics
+andrei.popescu,andrei@gmail.com,Parolamea1,Male,0766555444,true,Physics
+alex.tudor,alexandru@gmail.com,Alex2003,Male,0739970798,false,Informatics
+Alex.Alex,alex@gmail.com,Alex2003,Male,0749970798,false,Informatics
+Alex.Alexx,alexx@gmail.com,Alex2003,Male,0749970798,false,null

@@ -1,0 +1,3 @@
+Tufan Ionut,Matematica,4/May/2023,16:30,Sala 20,120,false
+Tufan,Fizica,2/Apr/2023,14:30,Sala 15,100,false
+Ionut.Tufan,Automata Theory,1/Jan/2023,17:00,Sala 10,100,false
